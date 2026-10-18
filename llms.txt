@@ -1,0 +1,22 @@
+# Dr. Shama Eye Clinic (عيادة د. شامة للعيون)
+
+> Ophthalmology practice of Prof. Dr. Ahmed El-Sayed Shama (أ.د. أحمد السيد شامة), professor of ophthalmology at Alexandria University's Faculty of Medicine, in Smouha, Alexandria, Egypt. Focus: cataract, cornea and refractive surgery.
+
+- Phone (appointments are arranged and confirmed by phone): +20 3 4230484 (03 4230484)
+- Address: El Bassant Tower, Azhar El Saraya Towers, Fawzy Moaz St. at Albert El Awal St., Smouha, Alexandria — above HSBC, Smouha branch
+- Map: https://www.google.com/maps/search/?api=1&query=31.211895586818%2C29.939221069491
+- Facebook: https://www.facebook.com/AhmedShamaClinic/
+- Opening hours are not published online; call to confirm.
+- There is no online booking. The website does not confirm appointments.
+
+## Pages
+
+- [Home (Arabic)](/ar) · [Home (English)](/en)
+- [About Prof. Dr. Ahmed Shama](/en/about)
+- [Common eye conditions](/en/conditions): short sight, long sight, astigmatism, presbyopia, cataract, glaucoma, retina problems and keratoconus, with the ways each can be corrected or treated (general information with NHS, NEI and AAO sources)
+- [Treatments](/en/treatments): consultation and examination, cataract surgery and lens implants, LASIK, EVO ICL implantable lenses, corneal conditions and surgery
+- [Vision check](/en/vision-check): an at-home screening (sharpness, contrast, colour, astigmatism, Amsler grid) that runs entirely in the browser. It is not a diagnosis, has not been clinically validated, and sends no answers anywhere.
+- [Patient information and FAQ](/en/patients)
+- [Contact and directions](/en/contact)
+
+Medical information on this site is general and does not replace an examination.
