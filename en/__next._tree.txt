@@ -5,4 +5,4 @@
 :HL["/dr-shama-clinic/_next/static/media/9a6f0c4a818c35a9-s.p.0f8v0z190ncq1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":128}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":48,"c":"$Q2"}]]
-0:{"b":"xfRp0sA8GaiEgEiYd8BtP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"AeE3HGEs_lgm4qCuBuSKk","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
