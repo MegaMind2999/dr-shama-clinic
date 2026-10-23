@@ -1,4 +1,5 @@
 User-Agent: *
 Allow: /
+Disallow: /api/
 
 Sitemap: https://megamind2999.github.io/dr-shama-clinic/sitemap.xml
