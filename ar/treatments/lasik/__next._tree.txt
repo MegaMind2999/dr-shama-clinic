@@ -1,4 +1,4 @@
-:HL["/dr-shama-clinic/_next/static/chunks/21m9-fywlq2xs.css","style"]
+:HL["/dr-shama-clinic/_next/static/chunks/2yek0kl2dgqii.css","style"]
 :HL["/dr-shama-clinic/_next/static/media/57696fb0c8dcfe1f-s.p.29a202atpp3ye.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dr-shama-clinic/_next/static/media/8f2ca9bed5019488-s.p.1rne3a59172go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dr-shama-clinic/_next/static/media/9a6f0c4a818c35a9-s.p.0f8v0z190ncq1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"lasik","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"treatments","h":64,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":[]},"h":48,"c":"$Q2"}]]
-0:{"b":"41qowmTDzEfI7KYxRoMMu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"qHFgK1CyeJFpne9qtD_e3","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
