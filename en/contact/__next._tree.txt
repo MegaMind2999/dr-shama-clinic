@@ -1,9 +1,9 @@
-:HL["/dr-shama-clinic/_next/static/chunks/0ay2fec_k7sem.css","style"]
-:HL["/dr-shama-clinic/_next/static/chunks/2-h2ke8ji0n37.css","style"]
+:HL["/dr-shama-clinic/_next/static/chunks/0ecm9hy9yeo7_.css","style"]
+:HL["/dr-shama-clinic/_next/static/chunks/14b1-m11f-klj.css","style"]
 :HL["/dr-shama-clinic/_next/static/media/57696fb0c8dcfe1f-s.p.29a202atpp3ye.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dr-shama-clinic/_next/static/media/8f2ca9bed5019488-s.p.1rne3a59172go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dr-shama-clinic/_next/static/media/9a6f0c4a818c35a9-s.p.0f8v0z190ncq1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"contact","h":64,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":48,"c":"$Q2"}]]
-0:{"b":"ijs11qkyUBbr7Lw2nVP8J","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"2YB8KCCY9p_Z3pIsKbJ2U","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
