@@ -17,6 +17,7 @@
 - [Common eye conditions](/en/conditions): short sight, long sight, astigmatism, presbyopia, cataract, glaucoma, retina problems and keratoconus, with the ways each can be corrected or treated (general information with NHS, NEI and AAO sources)
 - [Treatments](/en/treatments): consultation and examination, cataract surgery and lens implants, LASIK, EVO ICL implantable lenses, corneal conditions and surgery
 - [Vision check](/en/vision-check): an at-home screening (sharpness, contrast, colour, astigmatism, Amsler grid) that runs entirely in the browser. It is not a diagnosis, has not been clinically validated, and sends no answers anywhere.
+- [Caring for your eyes](/en/eye-care): everyday eye care (screens, dry eye, sun and dust, children, contact lenses and make-up, injuries, general health, check-ups) and a short "Am I likely to get dry eye?" check that runs in the browser and is not a diagnosis (general information with WHO, NHS, NEI and AAO sources; not yet reviewed by Dr. Shama)
 - [Patient information and FAQ](/en/patients)
 - [Contact and directions](/en/contact)
 

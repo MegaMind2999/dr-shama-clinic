@@ -181,6 +181,24 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://megamind2999.github.io/dr-shama-clinic/ar/eye-care/</loc>
+<xhtml:link rel="alternate" hreflang="ar-EG" href="https://megamind2999.github.io/dr-shama-clinic/ar/eye-care/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://megamind2999.github.io/dr-shama-clinic/en/eye-care/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://megamind2999.github.io/dr-shama-clinic/ar/eye-care/" />
+<lastmod>2026-10-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://megamind2999.github.io/dr-shama-clinic/en/eye-care/</loc>
+<xhtml:link rel="alternate" hreflang="ar-EG" href="https://megamind2999.github.io/dr-shama-clinic/ar/eye-care/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://megamind2999.github.io/dr-shama-clinic/en/eye-care/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://megamind2999.github.io/dr-shama-clinic/ar/eye-care/" />
+<lastmod>2026-10-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://megamind2999.github.io/dr-shama-clinic/ar/patients/</loc>
 <xhtml:link rel="alternate" hreflang="ar-EG" href="https://megamind2999.github.io/dr-shama-clinic/ar/patients/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://megamind2999.github.io/dr-shama-clinic/en/patients/" />
